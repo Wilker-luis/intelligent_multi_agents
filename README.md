@@ -84,6 +84,12 @@ BOLSAI_API_KEY=opcional## Funcionalidades
 
 Digite no chat:Sou investidor moderado, tenho R$ 80.000 e quero analisar PETR4, VALE3 e ITUB4, alem de Tesouro Direto e FIIs.O sistema acionara os 3 agentes e retornara uma analise completa com cotacoes reais e recomendacao personalizada.
 
+
+## Demo
+
+[![Quantum Finance Demo](https://img.youtube.com/vi/1ghM6pEmrQc/0.jpg)](https://youtu.be/1ghM6pEmrQc)
+
+> Clique na imagem para assistir a demonstracao completa do sistema.
 ## Autor
 
 Desenvolvido para o MBA Data Science & AI - FIAP  
